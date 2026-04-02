@@ -6,3 +6,6 @@ venv/
 
 #floder
 PlantVillage/
+
+# keras
+*.keras
